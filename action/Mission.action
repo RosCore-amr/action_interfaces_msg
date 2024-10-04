@@ -1,0 +1,10 @@
+# goal
+string mission
+
+---
+# result
+bool success
+
+---
+# feedback
+string action
